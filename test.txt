@@ -1,0 +1,18 @@
+hello this an text file....
+to test my understanding on git and gitHub
+
+git:
+git is an vesion control software
+were group of people can work on a same project and same given time
+this software can track all the changes made to the project.
+
+gitHub:
+is an code housting online portal which uses git
+it is an online tool for version controle and collaberate with other to work on same project at same time
+--here each "repository" represents an a project
+--branches-here branches are used to divert from master branch and make any changes to the present project and commit it and pysh and merge it with master branch
+--commit-here is nothing but save the changes made
+--push-push comand is uesed to push the local branch to the remote server(here in case gitHub) 
+--then we use GUI interfase of githud and pull and marge the brach changes to the remote repo
+--sync or pull-then to sync with the remote repo we pull it into local repo with the help of git pull
+
